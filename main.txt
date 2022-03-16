@@ -1,0 +1,17 @@
+Source: University of Texas
+
+https://web.ma.utexas.edu/users/mks/statmistakes/StatisticsMistakes.html
+
+1. Two variables that correlate (move together across time, for example) does not imply that a change in variable 1 causes a variable 2, vice versa.
+
+    One situation where people slip into confusing correlation and causality is in regression. For example, one might regress college GPA on SAT scores, 
+    obtaining a positive coefficient beta of SAT score in the regression equation. 
+    
+    Consider the following two statements:
+        An increase of one point in SAT scores causes, on average, an increase of β points in college GPA.
+        For every increase of one point in SAT scores, the increase in average college GPA is β points.
+        
+    Statement B is correct (assuming, of course, that the regression has been carried out correctly). Statement A is incorrect: the regression equation 
+    gives no information about causality. Indeed, there is likely a lurking variable (or probably a bunch of lurking variables) that affects both GPA and 
+    SAT score; SAT score is considered to be a (perhaps crude) measure 1of this lurking variable.
+    
